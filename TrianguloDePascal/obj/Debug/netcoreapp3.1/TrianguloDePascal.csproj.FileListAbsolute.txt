@@ -1,0 +1,13 @@
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\bin\Debug\netcoreapp3.1\TrianguloDePascal.exe
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\bin\Debug\netcoreapp3.1\TrianguloDePascal.deps.json
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\bin\Debug\netcoreapp3.1\TrianguloDePascal.runtimeconfig.json
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\bin\Debug\netcoreapp3.1\TrianguloDePascal.runtimeconfig.dev.json
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\bin\Debug\netcoreapp3.1\TrianguloDePascal.dll
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\bin\Debug\netcoreapp3.1\TrianguloDePascal.pdb
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\obj\Debug\netcoreapp3.1\TrianguloDePascal.csprojAssemblyReference.cache
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\obj\Debug\netcoreapp3.1\TrianguloDePascal.AssemblyInfoInputs.cache
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\obj\Debug\netcoreapp3.1\TrianguloDePascal.AssemblyInfo.cs
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\obj\Debug\netcoreapp3.1\TrianguloDePascal.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\obj\Debug\netcoreapp3.1\TrianguloDePascal.dll
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\obj\Debug\netcoreapp3.1\TrianguloDePascal.pdb
+C:\Users\matia\source\repos\TrianguloDePascal\TrianguloDePascal\obj\Debug\netcoreapp3.1\TrianguloDePascal.genruntimeconfig.cache
